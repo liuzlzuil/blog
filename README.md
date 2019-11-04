@@ -3,4 +3,4 @@
 
 
 ## 目录
-- [js中this的指向](https://github.com/liuzlzuil/blog/issues/1)
+- [执行上下文中的this](https://github.com/liuzlzuil/blog/issues/1)
