@@ -6,8 +6,9 @@
 
 > 凡事最怕的就是坚持
 
-## [CSDN](https://blog.csdn.net/LuoLuoDie)
-## [掘金](https://juejin.im/user/598c1ffa5188257d592e4e5d)
+## 其他博客平台
+- [CSDN](https://blog.csdn.net/LuoLuoDie)
+- [掘金](https://juejin.im/user/598c1ffa5188257d592e4e5d)
 
 ## 目录
 - [执行上下文中的this](https://github.com/liuzlzuil/blog/issues/1)
